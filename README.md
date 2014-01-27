@@ -10,3 +10,4 @@ brew tap shenqi/cask_shenqi
 ### Lists of softwares added #
 * [NNDD](http://sourceforge.jp/projects/nndd/)
 * [Gyazo](https://gyazo.com/ja)
+* [VueScan](http://www.hamrick.com/)
