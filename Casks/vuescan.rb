@@ -1,7 +1,7 @@
 class Vuescan < Cask
   url 'http://www.hamrick.com/files/vuex6494.dmg'
   homepage 'http://www.hamrick.com/'
-  version '9.4.22'
-  sha1 'de690de0a9e77b7bbd6beed53dbc3388e1ab6cd9'
+  version '9.4.23'
+  sha1 '57853d12f66f5ea1ef33cbbc86455dd90d84537a'
   link 'VueScan.app'
 end
