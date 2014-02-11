@@ -8,7 +8,9 @@ brew tap shenqi/cask_shenqi
 ```
 
 ### List of softwares added #
-* [NNDD](http://sourceforge.jp/projects/nndd/)
-* [Gyazo](https://gyazo.com/ja)
-* [VueScan](http://www.hamrick.com/)
 * [DayOne Command Line Interface](http://dayoneapp.com/tools/cli-man/)
+* [Firefox (with Japanese locale)](https://www.mozilla.jp/firefox/)
+* [Gyazo](https://gyazo.com/ja)
+* [MacVim-Kaoriya](https://code.google.com/p/macvim-kaoriya/)
+* [NNDD](http://sourceforge.jp/projects/nndd/)
+* [VueScan](http://www.hamrick.com/)
