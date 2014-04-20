@@ -15,3 +15,4 @@ brew tap shenqi/cask_shenqi
 * [MacVim-Kaoriya](https://code.google.com/p/macvim-kaoriya/)
 * [NNDD](http://sourceforge.jp/projects/nndd/)
 * [VueScan](http://www.hamrick.com/)
+* [MOTU Universal Installer](http://www.motu.com/download)
